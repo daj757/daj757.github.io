@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="eng-us">
+<head>
+	<!-- <link rel="stylesheet" href="reset.css"> -->
+	<link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+	<meta charset="UTF-8">
+	<title>Aboutme</title>
+</head>
+	<div class="Navbar"> 
+	<h1>Danny Jimenez</h1>
